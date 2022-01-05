@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.azhar.resepmasakan">
+    package="com.resep.resepmasakan">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -14,16 +14,14 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true"
         tools:targetApi="q">
-        <activity android:name=".activities.FavoriteRecipesActivity" />
-        <activity android:name=".activities.DetailRecipesActivity" />
-        <activity android:name=".activities.ListCategoriesActivity" />
-        <activity android:name=".activities.NewRecipesActivity">
+        <activity android:name="com.resep.resepmasakan.activities.FavoriteRecipesActivity"/>
+        <activity android:name="com.resep.resepmasakan.activities.DetailRecipesActivity"/>
+        <activity android:name="com.resep.resepmasakan.activities.ListCategoriesActivity"/>
+        <activity android:name="com.resep.resepmasakan.activities.NewRecipesActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-    </application>
-
-</manifest>
+        </application>
+    </manifest>

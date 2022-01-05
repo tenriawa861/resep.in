@@ -1,0 +1,65 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.azhar.resepmasakan"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[io.realm:realm-android-library-object-server:5.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\10cb24a2157ba9412bf862f129e988e1\jetified-realm-android-library-object-server-5.1.0\AndroidManifest.xml:10:5-79
+12-->[io.realm:realm-android-library-object-server:5.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\10cb24a2157ba9412bf862f129e988e1\jetified-realm-android-library-object-server-5.1.0\AndroidManifest.xml:10:22-76
+13
+14    <application
+14-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:8:5-26:23
+15        android:allowBackup="true"
+15-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.2] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\9c90763a8ee0a1f4350d2c8700ea5d17\core-1.3.2\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme"
+23-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:14:9-40
+24        android:usesCleartextTraffic="true" >
+24-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:15:9-44
+25        <activity android:name="com.resep.resepmasakan.activities.FavoriteRecipesActivity" />
+25-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:17:9-93
+25-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:17:19-91
+26        <activity android:name="com.resep.resepmasakan.activities.DetailRecipesActivity" />
+26-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:18:9-91
+26-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:18:19-89
+27        <activity android:name="com.resep.resepmasakan.activities.ListCategoriesActivity" />
+27-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:19:9-92
+27-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:19:19-90
+28        <activity android:name="com.resep.resepmasakan.activities.NewRecipesActivity" >
+28-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:20:9-25:20
+28-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:20:19-86
+29            <intent-filter>
+29-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:21:13-24:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:22:17-69
+30-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:22:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:23:17-77
+32-->C:\Users\ASUS\AndroidStudioProjects\ResepMasakanIndonesia\app\src\main\AndroidManifest.xml:23:27-74
+33            </intent-filter>
+34        </activity>
+35    </application>
+36
+37</manifest>

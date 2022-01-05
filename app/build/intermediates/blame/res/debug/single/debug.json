@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_recipes.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\layout\\activity_detail_recipes.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_ingredients.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\layout\\list_ingredients.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_favorite_recipes.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\layout\\activity_favorite_recipes.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back_white.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\ic_back_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rounded_rect.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\bg_rounded_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_circle.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\bg_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_recipes.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\layout\\activity_new_recipes.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_steps.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\layout\\list_steps.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_categories_recipe.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\layout\\list_categories_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rounded.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\bg_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_new_recipe.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\layout\\list_new_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back_black.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\ic_back_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_overlay.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\bg_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_portion.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\ic_portion.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_times.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\ic_times.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dificulty.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\ic_dificulty.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_categories.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\layout\\list_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_favorite.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\layout\\list_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list_categories.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\layout\\activity_list_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_unfavorite.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\ic_unfavorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_search.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_resep.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\ic_resep.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\ResepMasakanIndonesia\\app\\src\\main\\res\\drawable\\ic_favorite.xml"
+    }
+]
