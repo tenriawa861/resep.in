@@ -96,6 +96,9 @@ class DetailRecipesActivity : AppCompatActivity() {
                     .into(imageThumbnail)
 
             tvTitleRecipe.setText(strTitleRecipe)
+            tvDificulty.setText(strDificulty)
+            tvPortion.setText(strPortion)
+            tvTimes.setText(strTimes)
 
             ingredientsAdapter = IngredientsAdapter(modelIngredients)
             rvIngredients.setLayoutManager(GridLayoutManager(this, 2, RecyclerView.VERTICAL, false))

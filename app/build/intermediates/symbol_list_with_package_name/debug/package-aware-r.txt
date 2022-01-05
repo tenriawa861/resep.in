@@ -1927,7 +1927,10 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageDificulty
+id imagePortion
 id imageThumbnail
+id imageTimes
 id imgFavorite
 id info
 id invisible
